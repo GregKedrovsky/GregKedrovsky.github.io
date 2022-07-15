@@ -1,8 +1,10 @@
-# Greg Kedrovsky
+<p align="center">
+    Greg Kedrovsky
+</p>
 
 The obligatory "Hello World."
 
-## Unordered list follows...
+# Unordered list follows...
 
 **My fancy list:** 
 - one
