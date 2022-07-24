@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h1 style="text-align:center; font-family:verdana;">This is a heading</h1>
 
 <p style="text-align:center; font-family:courier;">This is a paragraph.</p>
