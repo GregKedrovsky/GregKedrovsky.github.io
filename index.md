@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <h1 style="text-align:center; font-family:verdana;">This is an HTML Section</h1>
 
 <p style="text-align:center; font-family:courier;">This is a paragraph.</p>
@@ -9,6 +5,8 @@ layout: default
 <h2 style="text-align:center;">Centered Heading</h2>
 
 <!-- trying to get my name centered, large, bold -->
+
+----
 
 # This is a Markdown Section
 
