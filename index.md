@@ -28,6 +28,12 @@ The obligatory "Hello World."
 
 ----
 
+# WordPress Resume Themes
 
+- [Glitch](https://themeforest.net/item/glitche-vcard-resume-wordpress-theme/22509848)
+- [Unique](https://themeforest.net/item/unique-resume-vcard-cv-theme/20033679)
+- [Kijat](https://themeforest.net/item/kijat-cv-resume-wordpress-theme/36593596)
+
+But... I'd really rather code my own static site by hand...
 
 end
